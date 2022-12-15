@@ -1,6 +1,7 @@
 - 👋 Hi ya'll, I’m Natasha
-- 💻 I'm a trainee Web Developer, currently in Argentina
-- 🌱 I’m currently and _constantly_ learning Python, MySQL and JS/TS 
+- 💻 I'm a trainee Web Dev and artsy person from somewhere in Argentina
+- 🌱 I’m currently and _constantly_ learning Python, MySQL and JS/React
+- 🐾 Coffee lover, cat person & animal defender
 - 💌 Reach me at: [:unicorn: all these places](https://ifelse.carrd.co)
 
 ### Fav and learning 💞
