@@ -1,6 +1,7 @@
 - 👋 Holi hello I’m Natasha
-- 💻 I'm a trainee Web Dev and artsy person from somewhere in Argentina
-- 🌱 Currently and _always_ learning Python, MySQL and JS/React
+- 💻 I'm a trainee Front End Dev and artsy person from somewhere in Argentina
+- 🌱 Currently learning Python and JS/React
+- 💻 Resilent, tireless learner
 - 🐾 Coffee lover, cat person & animal defender
 - 💌 Reach me at: [:unicorn: all these places](https://ifelse.carrd.co)
 
