@@ -3,7 +3,6 @@
 - 💻 Trainee Frontend Dev and artsy person from somewhere in Argentina
 - 🌱 Currently learning: ReactJs/VueJs and VTEX IO
 - 🐾 Coffee lover, cat person & animal defender
-- 🔮 Artsy person and cookie maker
 - 💌 Reach me at: [:unicorn: all these places](https://ifelse.carrd.co)
 
 ### Favs and learning 💞
