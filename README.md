@@ -3,7 +3,7 @@
 - 💻 Jr Frontend Developer
 - 🌱 ReactJs/NodeJs & VTEX IO
 - 🐾 Coffee lover cat person
-- 💌 Reach me at: [:unicorn: all these places](https://ifelse.carrd.co)
+- 💌 Reach me at: [:unicorn: over here](https://linkedin.com/in/nataberger91)
 
 ### Favs and learning 💞
 **Coding**
