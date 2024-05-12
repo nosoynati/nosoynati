@@ -1,9 +1,8 @@
 - 👋 Holi welcome! I’m Natasha!
 - 🏜 Somewhere in Argentina
 - 💻 Jr Frontend Developer
-- 🎨 Artsy person on the side
-- 🌱 Currently learning: ReactJs/NodeJs and VTEX IO
-- 🐾 Coffee lover - cat person
+- 🌱 ReactJs/NodeJs & VTEX IO
+- 🐾 Coffee lover cat person
 - 💌 Reach me at: [:unicorn: all these places](https://ifelse.carrd.co)
 
 ### Favs and learning 💞
