@@ -1,9 +1,9 @@
-- 👋 Holi welcome! I’m Natasha!
+- 👋 Helloo! I’m Natasha!
 - 🏜 Somewhere in Argentina
-- 💻 Jr Frontend Developer
+- 💻 Frontend Developer
 - 🌱 ReactJs/NodeJs & VTEX IO
 - 🐾 Coffee lover cat person
-- 💌 Reach me at: [:unicorn: over here](https://linkedin.com/in/nataberger91)
+- 💌 I'm [:unicorn: over here](https://linkedin.com/in/nataberger91)
 
 ### Favs and learning 💞
 **Coding**
